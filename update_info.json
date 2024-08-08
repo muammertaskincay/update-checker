@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.0",
-  "downloadUrl": "http://example.com/yourapp/latest_version.exe",
-  "releaseNotes": "Bu sürümde bazı hata düzeltmeleri ve performans iyileştirmeleri yapıldı."
+  "latestVersion": "v1.0",
+  "downloadUrl": "https://github.com/muammertaskincay/MNote/releases/tag/v1.0",
+  "releaseNotes": "Bu sürümde yeni özellikler eklendi ve bazı güvenlik açıkları kapatıldı."
 }
